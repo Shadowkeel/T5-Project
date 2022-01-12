@@ -26,5 +26,5 @@ The dataset has a story about diamonds, for each data has a story that is its pr
 ### Tools:
 - Jupyter notebook<br>
 - Programming language Python<br>
-- Libraries: Numpy, Pandas, Matplotlip, train_test_split, LinearRegression, mean_squared_error
+- Libraries: Numpy, Pandas, Matplotlip, train_test_split, LinearRegression, RandomForest, mean_squared_error
 - https://en.wikipedia.org/wiki/Diamond_color ( to categorize colors )
